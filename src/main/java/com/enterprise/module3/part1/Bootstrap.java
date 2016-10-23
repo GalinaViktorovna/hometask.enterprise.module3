@@ -1,4 +1,4 @@
-package com.enterprise.module3;
+package com.enterprise.module3.part1;
 
 public class Bootstrap {
     public static void main(String[] args) {

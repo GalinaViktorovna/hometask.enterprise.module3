@@ -1,4 +1,4 @@
-package com.enterprise.module3;
+package com.enterprise.module3.part1;
 
 public interface SemaphoreInterface {
 

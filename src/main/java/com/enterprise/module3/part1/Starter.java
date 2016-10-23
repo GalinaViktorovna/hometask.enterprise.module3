@@ -1,4 +1,4 @@
-package com.enterprise.module3;
+package com.enterprise.module3.part1;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -12,7 +12,7 @@ public class Starter {
         for (int i = 1; i <= SIZE; i++) {
             Thread thread = new Thread(new Worker(semaphore));
             thread.start();
-            
+
 
         }
     }
